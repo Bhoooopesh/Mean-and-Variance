@@ -76,7 +76,6 @@ print("The Variance of arrival from feeder is %.3f "%var)
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 
-
 # Output : 
 ![WhatsApp Image 2024-12-14 at 08 23 51_aae53827](https://github.com/user-attachments/assets/98563152-6027-46f7-9f11-5b3c83ec8c28)
 
